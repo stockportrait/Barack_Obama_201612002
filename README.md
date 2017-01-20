@@ -1,10 +1,20 @@
-# Pure-Stroke-SVG-Portrait
-Realistic, scalable and lightweight.
+Portrait of Barack Obama
+- Made with SVG
+- For free to use
 
-Portrait of Barack Obama made with Scalable Vector Graphics (SVG). The file size is only 15.2 KB.
+Made for [**cc.stockportrait.com**](http://cc.stockportrait.com/) project.
 
-![201612_002-Merge_paths.svg.gz](https://s3-ap-northeast-1.amazonaws.com/tksh/201612_002-Merge_paths.svg.gz)
+- **C**reative **c**ommons licensed **stock** illustrations of **portrait** for any **com**mercial purpose.
 
-How to make this artwork and compared to some raster image files and auto-generated SVG file:
+Uploaded to Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Barack_Obama_201612002.svg
 
-[たった15KBで、スケーラブルかつ写実的なバラク・オバマ - Qiita](http://qiita.com/tksh/items/9e8e8fc04790a268870d)
+Licensed under CreativeCommons CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Authenticated through ascribe.io https://www.ascribe.io/app/pieces/28374
+
+---
+
+Author: Takashi Saito [User:斉藤 高志 - Wikimedia Commons](https://commons.wikimedia.org/wiki/User:%E6%96%89%E8%97%A4_%E9%AB%98%E5%BF%97)
+
+Original repository of this artwork by same author:
+[Pure-Stroke-SVG-Portrait - Realistic, scalable and lightweight.](https://github.com/tksh/Pure-Stroke-SVG-Portrait)
