@@ -1,16 +1,15 @@
-Portrait of Barack Obama
+Portrait of Barack Obama drawn for [cc.stockportrait.com](http://cc.stockportrait.com/) project.
+
+- Free to use
 - Made with SVG
-- For free to use
 
-Made for [**cc.stockportrait.com**](http://cc.stockportrait.com/) project.
+---
 
-- **C**reative **c**ommons licensed **stock** illustrations of **portrait** for any **com**mercial purpose.
-
-Uploaded to Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Barack_Obama_201612002.svg
+Resources on Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Barack_Obama_201612002.svg
 
 Licensed under CreativeCommons CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
-Authenticated through ascribe.io https://www.ascribe.io/app/pieces/28374
+Authenticated through ascribe.io: https://www.ascribe.io/app/pieces/28374
 
 ---
 
